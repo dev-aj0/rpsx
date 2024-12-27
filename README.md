@@ -1,8 +1,10 @@
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/9835fd29-ea9e-46b7-a1ff-2e3703de2f8e" />
+
 # Rock Paper Scissors X
 
 RPS X is a minimalist and interactive Rock Paper Scissors game built with React, Vite, and Tailwind CSS. The game allows users to compete in a classic game of rock paper scissors with an AI.
 
-Try it out here:
+Try it out here: https://rockpaperscissors-x.netlify.app/
 
 ## Table of Contents
 
@@ -54,3 +56,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy playing RPS X! If you have any questions or feedback, feel free to reach out.
+
+
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/a4a1c325-2db6-4cde-b63f-539a1229e80c" />
+
